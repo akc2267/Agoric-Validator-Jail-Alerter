@@ -1,7 +1,7 @@
 # Agoric-Validator-Jail-Alerter
 This is a simple shell script to continuously poll your Agoric Validator status and alert you (both with audio and text) when your validator is jailed.
 
-Simply change <YOUR-MONIKER> to your agoric testnet moniker, then copy and paste the block of code into your terminal, and let it run continuously with the terminal window open.
+Simply change `<YOUR-MONIKER>` to your agoric testnet moniker, then copy and paste the block of code into your terminal, and let it run continuously with the terminal window open.
 
 
 ```
