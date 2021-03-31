@@ -1,5 +1,5 @@
 # Agoric-Validator-Jail-Alerter
-This is a simple shell script to continuously poll your Agoric Validator status and alert you when your validator is jailed.
+This is a simple shell script to continuously poll your Agoric Validator status and alert you (both with audio and text) when your validator is jailed.
 
 
 ```
